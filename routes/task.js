@@ -16,6 +16,6 @@ module.exports = router
 
 //router.get('/',get...)
 //router.post('/',createPerson);
-//router.post('/', createPesr...)
+//router.post('/', createP..)
 //router.put
 //router.delete
